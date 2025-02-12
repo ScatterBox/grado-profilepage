@@ -1,0 +1,11 @@
+h1 {
+    margin-top: 20px;
+}
+.smaller-table {
+    font-size: 0.8em; /* Adjust as needed */
+    width: 80%; /* Adjust as needed */
+    margin: auto;
+}
+.smaller-table th, .smaller-table td {
+    padding: 5px; /* Adjust as needed */
+}

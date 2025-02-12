@@ -1,0 +1,19 @@
+#login {
+    min-height: 100vh;
+}
+
+.form_container {
+    width: 500px;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .1);
+    padding: 50px;
+}
+
+img {
+    width: 20%;
+}
+
+.shesh {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
